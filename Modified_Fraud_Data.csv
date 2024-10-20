@@ -1,0 +1,8 @@
+user_id,signup_time,purchase_time,purchase_value,device_id,age,ip_address,class,lower_bound_ip_address,upper_bound_ip_address,country,transaction_frequency,source_Ads,source_SEO,browser_Chrome,browser_Opera,browser_Safari,sex_F,sex_M
+22058,2015-02-24 22:55:00,2015-04-18 02:47:00,0.6969696971211242,QVPSPJUOCKZAR,0.6000000000000001,,0,0,0,US,1,False,True,True,False,False,False,True
+333320,2015-06-07 20:39:00,2015-06-08 01:38:00,0.15151515171705454,EOGFQPIZPYXFZ,1.0,,1,0,0,US,1,True,False,True,False,False,True,False
+1359,2015-01-01 18:52:00,2015-01-01 18:52:00,0.12121212126259695,YSSKYOSJHPPLJ,1.0,,0,0,0,UK,1,False,True,False,True,False,False,True
+150084,2015-04-28 21:13:00,2015-05-04 13:54:00,1.0,ATGTXKYKUDUQN,0.6571428571428573,,0,0,0,UK,1,False,True,False,False,True,False,True
+221365,2015-07-21 07:09:00,2015-09-09 18:40:00,0.8484848488381789,NAUITBZFJKHWW,0.7714285714285714,,0,0,0,US,1,True,False,False,False,True,False,True
+159135,2015-05-21 06:03:00,2015-07-09 08:05:00,0.9393939396463182,ALEYXFXINSXLZ,0.0,,0,0,0,CA,1,True,False,True,False,False,False,True
+50116,2015-08-01 22:40:00,2015-08-27 03:37:00,0.0,IWKVZHJOCLPUR,0.02857142857142858,,1,0,0,CA,1,True,False,True,False,False,True,False
